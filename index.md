@@ -5,14 +5,20 @@ layout: default
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/eScience.png">
 
 
-# Project Name
+# My SOC 401 Project
 
 ## The Team
 
+Myself
+
 **Project Lead/s:**
+
+Myself
 
 **Data Science Lead/s:** 
 
-**DSSG Fellows:** 
+Myself
 
 # Abstract or executive summary
+
+My policy plan.
