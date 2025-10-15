@@ -5,6 +5,8 @@ layout: default
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/eScience.png">
 
 
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/eScience.png">
+
 # My SOC 401 Project
 
 ## The Team
