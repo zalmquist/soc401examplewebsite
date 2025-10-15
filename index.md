@@ -5,7 +5,7 @@ layout: default
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/eScience.png">
 
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/img/eScience.png">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/Friedrich-Johann-Justin-Bertuch_Mythical-Creature-Dragon_1806.jpg">
 
 # My SOC 401 Project
 
